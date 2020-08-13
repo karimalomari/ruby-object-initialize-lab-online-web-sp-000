@@ -15,7 +15,3 @@ class Dog
     @breed 
   end
 end 
-
-fido = Dog.new
-fido.name = "Fido"
-fido.breed = "Beagle" 
